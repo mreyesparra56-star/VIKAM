@@ -11,6 +11,9 @@ App sobre habitos saludables
 ## 📌 Estado actual
 En construcción 🚧
 
+## ¿Qué son las Ramas?
+Las ramas son utilizadas para trabajar en equipo, que cada uno pueda modificar el trabajo desde donde esté, para poder unirlo después.
+
 
 
 
